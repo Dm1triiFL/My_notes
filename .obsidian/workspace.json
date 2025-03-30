@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "c4e994307c783935",
+            "id": "0e6af7f2f42abdc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Knowledge/ArrayDeque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ArrayDeque"
             }
           },
           {
-            "id": "1d2bbbf4f6630d4a",
+            "id": "a870edbbd300eec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Knowledge/Collections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Collections"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Knowledge/Collections.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roadmap"
+              "title": "Outline of Collections"
             }
           },
           {
@@ -232,10 +232,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1d2bbbf4f6630d4a",
+  "active": "a870edbbd300eec6",
   "lastOpenFiles": [
-    "README.md",
+    "Knowledge/ArrayDeque.md",
+    "Knowledge/Collections.md",
+    "Knowledge/LinkedList в качестве Queue.md",
+    "Knowledge/LinkedHashSet.md",
+    "Knowledge/HashMap.md",
+    "Images/Pasted image 20250331003348.png",
+    "Knowledge/Хеш-таблица.md",
+    "Images/Pasted image 20250330220020.png",
+    "Knowledge/HashSet.md",
+    "Knowledge/Index.md",
+    "Knowledge/LinkedHashMap.md",
+    "Knowledge/TreeSet.md",
+    "Knowledge/Java.md",
+    "Knowledge/Порядок создания классов в Spring.md",
     "Roadmap.md",
+    "README.md",
     "Видеонаблюдение/Порядок подключения оборудования IP-видеонаблюдения.md",
     "Видеонаблюдение/Компоненты IP-видеонаблюдения.md",
     "Canvas.canvas",
@@ -245,32 +259,18 @@
     "Knowledge/SQL.md",
     "Knowledge/SQL команды.md",
     "Knowledge/Разновидности функций SQL.md",
-    "Knowledge/Collections.md",
-    "Knowledge/TreeSet.md",
     "Images/Pasted image 20250330163054.png",
-    "Knowledge/HashSet.md",
     "Images/Pasted image 20250330162754.png",
     "Images/Pasted image 20250330162727.png",
-    "Knowledge/Java.md",
-    "Knowledge/HashMap.md",
     "Knowledge/Методы интерфейса collection.md",
     "Knowledge/Collection и класса Collections.md",
     "Knowledge/Collection и класса Collections 1.md",
-    "Knowledge/Index.md",
     "Knowledge/Утилитный класс.md",
     "Images/Pasted image 20250330160010.png",
-    "Knowledge/Docker.md",
-    "Knowledge/Красно-черное дерево.md",
-    "Knowledge/Generics.md",
-    "Knowledge/Comparators.md",
-    "Knowledge/Интерфейс Comparable.md",
-    "Knowledge/Интерфейсы.md",
     "Images/Pasted image 20250330153834.png",
     "Images/Pasted image 20250330153616.png",
     "Images/Pasted image 20250330151741.png",
     "Images/Pasted image 20250330150250.png",
-    "Images/Pasted image 20250330142244.png",
-    "Images/Pasted image 20250330142242.png",
     "Видеонаблюдение",
     "Untitled.canvas",
     "Auths",

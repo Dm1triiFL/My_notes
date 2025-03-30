@@ -1,3 +1,7 @@
+---
+tags:
+  - Java
+---
 # LinkedHashMap в Java
 
 > [!NOTE]
