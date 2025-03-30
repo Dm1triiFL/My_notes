@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "path:Knowledge  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 6406478
+      }
+    },
+    {
+      "query": "tag:#SQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 4359608
+      }
+    },
+    {
+      "query": "tag:#Hibernate  ",
+      "color": {
+        "a": 1,
+        "rgb": 14731602
+      }
+    },
+    {
+      "query": "tag:#Index  ",
+      "color": {
+        "a": 1,
+        "rgb": 2039326
+      }
+    },
+    {
+      "query": "tag:#WEB  ",
+      "color": {
+        "a": 1,
+        "rgb": 6892031
+      }
+    },
+    {
+      "query": "tag:#Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Term  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Docker  ",
+      "color": {
+        "a": 1,
+        "rgb": 22015
+      }
+    },
+    {
+      "query": "tag:#Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "tag:#Алгоритмы  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431492
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5359795996226766,
+  "close": true
+}

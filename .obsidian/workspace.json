@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "aea94b745a3dc44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "225ef8b0fc299397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2502841d38058e16",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a238650d4ee1c28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba2d7a802e7dfa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7325deac0fde0b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d03a00b81af4770",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "COLLECT",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba5c2320d1dd85c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "efb1212e8a4df297",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04468c4139689a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71dc9d447f6d62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832a15c9f789948e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Фреймворк.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Фреймворк"
+            }
+          },
+          {
+            "id": "cdc946a61cfd2abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SQL"
+            }
+          },
+          {
+            "id": "1ac44756ba98e6b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6200d0548fa43439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Видеонаблюдение/Компоненты IP-видеонаблюдения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Компоненты IP-видеонаблюдения"
+            }
+          },
+          {
+            "id": "a6753544490bd19e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "84f866ac79e1e947",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "a7325deac0fde0b0",
+  "lastOpenFiles": [
+    "Видеонаблюдение/Порядок подключения оборудования IP-видеонаблюдения.md",
+    "Видеонаблюдение/Компоненты IP-видеонаблюдения.md",
+    "Canvas.canvas",
+    "Auths/Cognix.md",
+    "Auths/Postgres.md",
+    "Auths/Teams.md",
+    "Knowledge/SQL.md",
+    "Knowledge/SQL команды.md",
+    "Knowledge/Разновидности функций SQL.md",
+    "Knowledge/Collections.md",
+    "Knowledge/TreeSet.md",
+    "Images/Pasted image 20250330163054.png",
+    "Knowledge/HashSet.md",
+    "Images/Pasted image 20250330162754.png",
+    "Images/Pasted image 20250330162727.png",
+    "Knowledge/Java.md",
+    "Knowledge/HashMap.md",
+    "Knowledge/Методы интерфейса collection.md",
+    "Knowledge/Collection и класса Collections.md",
+    "Knowledge/Collection и класса Collections 1.md",
+    "Knowledge/Index.md",
+    "Knowledge/Утилитный класс.md",
+    "Images/Pasted image 20250330160010.png",
+    "Knowledge/Docker.md",
+    "Knowledge/Красно-черное дерево.md",
+    "Knowledge/Generics.md",
+    "Knowledge/Comparators.md",
+    "Knowledge/Интерфейс Comparable.md",
+    "Knowledge/Интерфейсы.md",
+    "Knowledge/Oblect и oblects.md",
+    "Knowledge/Equals и hashCode.md",
+    "Images/Pasted image 20250330153834.png",
+    "Images/Pasted image 20250330153616.png",
+    "Images/Pasted image 20250330151741.png",
+    "Images/Pasted image 20250330150250.png",
+    "Images/Pasted image 20250330142244.png",
+    "Images/Pasted image 20250330142242.png",
+    "Видеонаблюдение",
+    "Untitled.canvas",
+    "Auths",
+    "Knowledge",
+    "Images"
+  ]
+}
