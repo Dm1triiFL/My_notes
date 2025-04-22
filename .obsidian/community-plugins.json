@@ -2,5 +2,7 @@
   "calendar",
   "fold-properties-by-default",
   "mermaid-tools",
-  "mehrmaid"
+  "mehrmaid",
+  "random-retrieval",
+  "daily-random-note"
 ]

@@ -20,31 +20,73 @@
             }
           },
           {
-            "id": "0e6af7f2f42abdc9",
+            "id": "1b0ac33d3d1e1904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/ArrayDeque.md",
+                "file": "Knowledge/Метод map в stream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArrayDeque"
+              "title": "Метод map в stream"
             }
           },
           {
-            "id": "a870edbbd300eec6",
+            "id": "7a08253ec3a5e139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Collections.md",
+                "file": "Knowledge/Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collections"
+              "title": "Streams"
+            }
+          },
+          {
+            "id": "3644055290942ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Метод flatmap в stream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод flatmap в stream"
+            }
+          },
+          {
+            "id": "c3564fc74730f1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Метод reduce в stream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод reduce в stream"
+            }
+          },
+          {
+            "id": "58afc4ad60636eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Метод collect в Stream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод collect в Stream"
             }
           }
         ],
@@ -80,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COLLECT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Collections.md",
+                "file": "Knowledge/Streams.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Collections"
+              "title": "Outline of Streams"
             }
           },
           {
@@ -205,7 +247,7 @@
             }
           },
           {
-            "id": "84f866ac79e1e947",
+            "id": "e0837652b6ae2d24",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -229,48 +271,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "random-retrieval:Open Random Note from Search": false,
+      "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "a870edbbd300eec6",
+  "active": "7a08253ec3a5e139",
   "lastOpenFiles": [
-    "Knowledge/ArrayDeque.md",
-    "Knowledge/Collections.md",
-    "Knowledge/LinkedList в качестве Queue.md",
-    "Knowledge/LinkedHashSet.md",
+    "Knowledge/Метод reduce в stream.md",
+    "Knowledge/Метод map в stream.md",
+    "Knowledge/Метод collect в Stream.md",
+    "Knowledge/Streams.md",
     "Knowledge/HashMap.md",
-    "Images/Pasted image 20250331003348.png",
-    "Knowledge/Хеш-таблица.md",
-    "Images/Pasted image 20250330220020.png",
-    "Knowledge/HashSet.md",
-    "Knowledge/Index.md",
-    "Knowledge/LinkedHashMap.md",
-    "Knowledge/TreeSet.md",
+    "Knowledge/Collections.md",
+    "Knowledge/Метод flatmap в stream.md",
+    "Knowledge/Функциональные интерфейсы.md",
+    "Knowledge/Object и Objects.md",
+    "Knowledge/Метод forEach в stream.md",
     "Knowledge/Java.md",
-    "Knowledge/Порядок создания классов в Spring.md",
-    "Roadmap.md",
-    "README.md",
-    "Видеонаблюдение/Порядок подключения оборудования IP-видеонаблюдения.md",
-    "Видеонаблюдение/Компоненты IP-видеонаблюдения.md",
+    "Knowledge/Method chaining.md",
+    "Knowledge/Function.md",
+    "Images/Pasted image 20250421130052.png",
+    "Knowledge/Метод sorted в stream.md",
+    "Knowledge/Extends и super.md",
+    "Knowledge/Связь между ООП и функциональным программированием.md",
+    "Knowledge/Метод filter в stream.md",
+    "Knowledge/Big O notation.md",
+    "Knowledge/Утилитный класс.md",
+    "Knowledge/Типы загрузок данных eager и lazy.md",
+    "Knowledge/Пример Spring Boot Приложения.md",
+    "Knowledge/Конфигурация приложения MVC + Hibernate.md",
+    "Knowledge/Пример REST приложения.md",
+    "Knowledge/Контейнер Spring.md",
+    "Knowledge/Жизненный цикл бина.md",
+    "Knowledge/Валидация данных.md",
+    "Images/Pasted image 20250331225620.png",
+    "Images/Pasted image 20250331103409.png",
+    "Images/Pasted image 20250331103357.png",
+    "Images/Pasted image 20250331015218.png",
+    "Images/Pasted image 20250331003348.png",
+    "Images/Pasted image 20250330220020.png",
     "Canvas.canvas",
-    "Auths/Cognix.md",
-    "Auths/Postgres.md",
-    "Auths/Teams.md",
-    "Knowledge/SQL.md",
-    "Knowledge/SQL команды.md",
-    "Knowledge/Разновидности функций SQL.md",
     "Images/Pasted image 20250330163054.png",
     "Images/Pasted image 20250330162754.png",
     "Images/Pasted image 20250330162727.png",
-    "Knowledge/Методы интерфейса collection.md",
-    "Knowledge/Collection и класса Collections.md",
-    "Knowledge/Collection и класса Collections 1.md",
-    "Knowledge/Утилитный класс.md",
-    "Images/Pasted image 20250330160010.png",
-    "Images/Pasted image 20250330153834.png",
-    "Images/Pasted image 20250330153616.png",
-    "Images/Pasted image 20250330151741.png",
-    "Images/Pasted image 20250330150250.png",
     "Видеонаблюдение",
     "Untitled.canvas",
     "Auths",
